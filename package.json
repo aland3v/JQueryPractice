@@ -1,0 +1,24 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "Ejercicios con JQuery del texto Learn JQuery 4th edition",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aland3v/JQueryPractice.git"
+  },
+  "author": "Alan D3v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aland3v/JQueryPractice/issues"
+  },
+  "homepage": "https://github.com/aland3v/JQueryPractice#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

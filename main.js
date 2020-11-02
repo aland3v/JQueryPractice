@@ -30,3 +30,7 @@ $(document).ready(function() {
 })
 
 /** al igual q REGEX ^ -> inicia con mailto, $->termina con .pdf */
+
+/** Custom Selectors -> propios de jQuery */
+$('div.horizontal:eq(1)') /* elegira el 2do, se cuenta desde 0 por que los arrays de JS comienzan en 0 */
+$('div:nth-child(1)') /* elegira el primer div hijo es propio de CSS */
